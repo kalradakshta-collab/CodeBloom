@@ -1,0 +1,7 @@
+Project Name: CodeBloom
+
+Description: CodeBloom is an AI-powered coding companion that helps developers understand, debug and improve code through an AI Fox Assistant, code editor, debugging tools, architecture visualization and developer onboarding.
+
+Live Demo: https://codebloom-ai-codebase-architecture-onboarding-vis.ai.studio
+
+GitHub Repository: https://github.com/kalradakhta-collab/CodeBloom
